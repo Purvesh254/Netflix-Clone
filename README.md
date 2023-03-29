@@ -5,6 +5,7 @@
 
 <h2>Usage</h2>
 <p>To use the Netflix clone, simply navigate through the page and explore its features. You can hover over different elements for more information and click on the buttons to watch trailers or learn more about the featured movies and TV shows.</p>
+<b>Live Demo : </b>https://purvesh254.github.io/Netflix-Clone/
 
 <h2>Technologies Used<h2>
 <ul>
